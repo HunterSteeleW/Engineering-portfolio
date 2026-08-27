@@ -29,14 +29,21 @@ We want to make machines that do not require burning of the plastic, or a machin
 **Source:**  
 https://www.epa.gov/plastics/impacts-plastic-pollution
 
-#### Finding 2: [Descriptive heading]
+#### Finding 2: Precious Plastic Program
 
 **What I found:**  
-
+- Open Source
+- Purpose: Lowers barrier to recycling for induviduals or communities
+- ***Machines***
+  - Shredder: Grinds down plastic into pellets
+  - extruder: Melts doen pellets and extrues in the form of bar/board/pipe
+  - Injector: Pellets are melted into a mold. Useful for small parts
+  - Compresion: Pellets are melted in an oven and pressed into a flat board. 
+  
 **Why it matters to our project:**  
-
+The machines will be helpful if we want to purchase one/build one or if we decide to create our own we have something that we can model off of.
 **Source:**  
-[Source title](paste URL here)
+https://www.preciousplastic.com/
 
 #### Finding 3: [Descriptive heading]
 
