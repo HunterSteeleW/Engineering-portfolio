@@ -1,31 +1,33 @@
 # Precious Plastics Recycling Center Research Log
 
-**Student:**  
-**Course:** Engineering I or Engineering II  
+**Student:**  Hunter
+**Course:**  Engineering II  
 
 ## Week 1 — Defining the Problem
 
-**Date:**  
+**Date:**  08/27
 
 ### Questions I Investigated
 
-- 
-- 
-- 
+- Why Address Plastic Waste
+- Precious Plastic Program
+- What plastic might our school supply?
 
 ### Research Findings
 
-#### Finding 1: [Descriptive heading]
+#### Finding 1: Plastic Waste issues
 
 **What I found:**  
-Explain the information in your own words.
+- Degrades ecosystems ex: animal entanglment, smothers riverbeds
+- Accelerates climate change ex: Burning plastic releases green house gasses
+- Causes Human Health Risks ex: Microplastics in water sources
+- Kills Tourism ex: No one wants to visit trashy beaches
 
 **Why it matters to our project:**  
-Explain how this could affect what we design, build, accept, purchase,
-or manufacture.
+We want to make machines that do not require burning of the plastic, or a machine that creates micro plastics. 
 
 **Source:**  
-[Source title](paste URL here)
+https://www.epa.gov/plastics/impacts-plastic-pollution
 
 #### Finding 2: [Descriptive heading]
 
