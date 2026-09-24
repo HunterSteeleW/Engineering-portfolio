@@ -13,8 +13,9 @@
 # BEST VIDEO:
 https://www.youtube.com/watch?v=bZKtfT6y0v8
 
-# Main Concept:
+# Main Concepts:
 
+## Extruder
 ### Steps:
 1. Shred down the plastic into pellets
 2. Pour plastic into hopper
@@ -27,3 +28,11 @@ https://www.youtube.com/watch?v=bZKtfT6y0v8
    
 ### Result
 You are left with plastic boards that can be used in place of traditional lumber. 
+
+## Shredder Concept
+Use a slow rolling drum with teeth to slowly twist and pull plastic apart.
+
+### Advantages: 
+- Slow RPM Speed
+- Relies on tourque over RPM's and Kinetic energy 
+
