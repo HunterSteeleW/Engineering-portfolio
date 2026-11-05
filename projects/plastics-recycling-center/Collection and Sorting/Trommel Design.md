@@ -1,5 +1,8 @@
-Reasons for Having a Washer vs Hand Washing
-
+# Reasons for Having a Washer vs Hand Washing
+- Hand washing means exposing your hands to hot water and potentially sharp edges for long periods of time
+- uses less water per amount of plastic washed
+- Less time cost. Running a batch trough the washer is more time effeciant that hand washing 100 bottles individually
+  
 # Photo Inspiration For Plastic Washer
 <img width="638" height="480" alt="image" src="https://github.com/user-attachments/assets/5323a364-9c41-44e7-936c-a747c72a5aae" />
 <img width="523" height="382" alt="image" src="https://github.com/user-attachments/assets/fe0fee34-1bc3-4536-b5e1-4ee421a5b3dc" />
